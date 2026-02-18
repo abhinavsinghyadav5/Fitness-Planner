@@ -10,7 +10,7 @@ function App() {
 
   
   useEffect(() => {
-    fetch("http://localhost:5000/calculations")
+    fetch("https://fitness-back-izb7.onrender.com/calculations")
       .then((res) => res.json())
       .then((data) => setHistory(data))
       .catch((err) => console.error(err));
