@@ -4,48 +4,38 @@ A full-stack web application that calculates BMI, daily calorie requirements, an
 
 Project Link- https://fitness-planner-sigma.vercel.app/
 
+
+•	Features-
+•  BMI calculation with category detection
+•  Daily calorie estimation based on goal
+•  Protein requirement calculation
+•  History tracking of previous calculations
+•  Persistent storage using MongoDB Atlas
+•  Fully deployed frontend and backend
+
 Tech Stack-
-
 Frontend-
-
-React (Hooks: useState, useEffect)
-
-CSS
-
-Framer Motion (animations)
-
-
+•	React (Vite)
+•	Fetch API
+•	CSS
 Backend-
+•	Node.js
+•	Express.js
+•	MongoDB Atlas
+•	Mongoose
+Deployment-
+•	Frontend: Vercel
+•	Backend: Render
+•	Database: MongoDB Atlas
 
-Node.js
-
-Express.js
-
-RESTful API
-
-
-Database-
-
-MongoDB Atlas
-
-Mongoose ODM
+What I Learned-
+•	Building and structuring full-stack applications
+•	REST API development with Express
+•	MongoDB integration and schema modeling
+•	Cloud deployment (Render & Vercel)
+•	Environment variable security practices
+•	Debugging production deployment issues
 
 
-Features-
 
-BMI calculation with category classification
-
-Goal-based calorie adjustment (Muscle Gain / Fat Loss)
-
-Daily protein calculation
-
-Meal & workout recommendations
-
-Persistent history tracking
-
-MongoDB cloud integration
-
-Sorted history by latest entry
-
-Clean and responsive UI
 
