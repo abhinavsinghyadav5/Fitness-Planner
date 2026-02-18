@@ -2,6 +2,8 @@ Fitness & Nutrition Planner
 
 A full-stack web application that calculates BMI, daily calorie requirements, and provides personalized meal and workout suggestions based on user goals. The application also stores user history using a cloud MongoDB database.
 
+Project Link- https://fitness-planner-sigma.vercel.app/
+
 Tech Stack-
 
 Frontend-
